@@ -285,4 +285,4 @@ function pick(guess) {
       lose();
     }
   }
-}.
+}
